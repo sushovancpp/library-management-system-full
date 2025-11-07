@@ -9,4 +9,4 @@ Admin credentials (app user):
 Email: admin@example.com
 Password: admin123
 
-Database: it assumes you already created the 'lms' database in MySQL (phpMyAdmin) and imported tables.
+Database: it assumes you already created the 'kitabghar' database in MySQL (phpMyAdmin) and imported tables.
