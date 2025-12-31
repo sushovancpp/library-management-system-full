@@ -5,7 +5,7 @@ Run both servers (from root):
 npm install
 npm run dev
 
-Admin credentials (app user):
+Admin credentials (app user)
 Email: admin@example.com
 Password: admin123
 
